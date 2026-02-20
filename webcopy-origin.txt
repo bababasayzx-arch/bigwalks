@@ -1,0 +1,132 @@
+Uri: https://bigwalk.fun/
+File Name: C:\Downloaded Web Sites\bigwalk.fun\index.htm
+Content Type: text/html
+
+Uri: https://bigwalk.fun/assets/background.png
+File Name: C:\Downloaded Web Sites\bigwalk.fun\assets\background.png
+Content Type: image/png
+
+Uri: https://bigwalk.fun/assets/favicon.png
+File Name: C:\Downloaded Web Sites\bigwalk.fun\assets\favicon.png
+Content Type: image/png
+
+Uri: https://bigwalk.fun/assets/titlebwalk.png
+File Name: C:\Downloaded Web Sites\bigwalk.fun\assets\titlebwalk.png
+Content Type: image/png
+
+Uri: https://bigwalk.fun/styles.css
+File Name: C:\Downloaded Web Sites\bigwalk.fun\styles.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\bigwalk.fun\ajax\libs\font-awesome\6.5.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@300..700&family=Syne:wght@400..800&family=Sora:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\bigwalk.fun\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXooxW4.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\bebasneue\v16\JTUSjIg69CK48gW7PXooxW4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSmX-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSfSmX-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSnn-K.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSfSnn-K.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+File Name: C:\Downloaded Web Sites\bigwalk.fun\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+Content Type: font/ttf
+

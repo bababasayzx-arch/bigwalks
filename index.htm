@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Big Walk</title>
+  <meta name="description" content="Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.">
+  <meta name="theme-color" content="#c4e3ba">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="apple-touch-icon" href="assets/favicon.png">
+  <meta property="og:title" content="Big Walk">
+  <meta property="og:description" content="Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.">
+  <meta property="og:url" content="https://bigwalk.fun/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://bigwalk.fun/assets/background.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Big Walk">
+  <meta name="twitter:description" content="Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.">
+  <meta name="twitter:image" content="https://bigwalk.fun/assets/background.png">
+  <link href="fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="ajax/libs/font-awesome/6.5.0/css/all.min.css" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="top-glow" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="#top" aria-label="Big Walk Home">
+        <img class="brand-mark" src="assets/favicon.png" alt="">
+        <span class="brand-text">
+          <span class="brand-title">Big Walk</span>
+          <span class="brand-sub">House House</span>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Primary">
+        <a href="#features">Features</a>
+        <a href="#beta">Beta</a>
+        <a href="#media">Media</a>
+        <a href="#faq">Faq</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="Change theme">
+          <i class="fa-solid fa-palette"></i>
+        </button>
+      </div>
+      <button class="burger" id="burger" type="button" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="mobile-menu" id="mobileMenu" hidden="">
+      <div class="container mobile-inner">
+        <a href="#features">Features</a>
+        <a href="#beta">Beta</a>
+        <a href="#media">Media</a>
+        <a href="#faq">Faq</a>
+        <a class="cta" href="#download">
+          <i class="fa-solid fa-download"></i>
+          <span>Download (Beta)</span>
+        </a>
+      </div>
+    </div>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="pill">
+            <i class="fa-solid fa-flask"></i>
+            <span>Beta build</span>
+            <span class="dot" aria-hidden="true"></span>
+            <span>Not on steam yet</span>
+          </div>
+          <div class="hero-title" aria-label="Big Walk">
+            <img src="assets/titlebwalk.png" alt="Big Walk" class="hero-title-img" loading="eager" decoding="async" draggable="false">
+          </div>
+          <p class="lead">
+            Big walk is a multiplayer adventure where exploration, teamwork, and weird discoveries collide.
+            This is a <strong>beta</strong> build — expect updates, changes, and rough edges.
+          </p>
+          <div class="hero-actions">
+            <button class="primary" id="watchTrailer" type="button">
+              <i class="fa-solid fa-play"></i>
+              <span>Watch Trailer</span>
+            </button>
+            <div class="dl-wrap">
+              <button class="secondary" id="downloadBtn" type="button">
+                <i class="fa-solid fa-download"></i>
+                <span>Download Beta</span>
+              </button>
+              <div class="dl-meta">(Installer 93.2MB)</div>
+            </div>
+            <a class="ghost" id="steamBtn" href="https://store.steampowered.com/app/1478500/Big_Walk/" target="_blank" rel="noreferrer">
+              <i class="fa-brands fa-steam"></i>
+              <span>Wishlist on Steam</span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="hero-scrim" aria-hidden="true"></div>
+    </section>
+    <section class="section" id="features">
+      <div class="container">
+        <div class="section-head">
+          <h2>Features</h2>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <i class="fa-solid fa-people-group"></i>
+            <h3>Co-op first</h3>
+            <p>Big walk shines with friends — small moments become missions, and missions become stories.</p>
+          </article>
+          <article class="card">
+            <i class="fa-solid fa-mountain-sun"></i>
+            <h3>Living world</h3>
+            <p>Dense environments, secrets, and surprises that reward curiosity instead of checklist grinding.</p>
+          </article>
+          <article class="card">
+            <i class="fa-solid fa-walkie-talkie"></i>
+            <h3>Communication tools</h3>
+            <p>Your squad doesn’t just “follow” — you coordinate, improvise, and laugh at bad plans.</p>
+          </article>
+          <article class="card">
+            <i class="fa-solid fa-puzzle-piece"></i>
+            <h3>Emergent moments</h3>
+            <p>Systems that collide in ways you didn’t expect — the good kind of chaos.</p>
+          </article>
+          <article class="card">
+            <i class="fa-solid fa-pen-nib"></i>
+            <h3>Handcrafted tone</h3>
+            <p>Stylized presentation with punchy typography and cinematic UI motion.</p>
+          </article>
+          <article class="card">
+            <i class="fa-solid fa-screwdriver-wrench"></i>
+            <h3>Beta-driven updates</h3>
+            <p>This build is in progress; patches may change content, balance, and performance.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+    <section class="section alt" id="beta">
+      <div class="container two-col">
+        <div>
+          <h2>Status</h2>
+          <p>
+            You’re downloading a <strong>beta</strong> build. things might break, change, or get reworked.
+            If you hit bugs, that’s part of the ride.
+          </p>
+          <ul class="bullets">
+            <li><i class="fa-solid fa-triangle-exclamation"></i> Performance may vary</li>
+            <li><i class="fa-solid fa-bug"></i> Bugs are expected</li>
+            <li><i class="fa-solid fa-rotate"></i> Frequent updates planned</li>
+            <li><i class="fa-solid fa-lock-open"></i> Not released on steam yet</li>
+          </ul>
+          <div class="inline-actions" id="download">
+            <div class="dl-wrap">
+              <button class="primary" id="downloadBtn2" type="button">
+                <i class="fa-solid fa-download"></i>
+                <span>Download Beta</span>
+              </button>
+              <div class="dl-meta">(Installer 93.2MB)</div>
+            </div>
+            <a class="ghost" href="https://store.steampowered.com/app/1478500/Big_Walk/" target="_blank" rel="noreferrer">
+              <i class="fa-brands fa-steam"></i>
+              <span>View on steam</span>
+            </a>
+          </div>
+          <p class="fine">
+            By downloading, you agree this is a beta build and may change without notice.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="media">
+      <div class="container">
+        <div class="section-head">
+          <h2>Media</h2>
+        </div>
+        <div class="gallery" id="gallery">
+          <button class="shot" type="button" data-full="" aria-label="Open image 1">
+            <img class="shot-img" src="" alt="Screenshot 01" loading="lazy">
+            <div class="shot-inner">
+              <i class="fa-regular fa-image"></i>
+              <span>01</span>
+            </div>
+          </button>
+          <button class="shot" type="button" data-full="" aria-label="Open image 2">
+            <img class="shot-img" src="" alt="Screenshot 02" loading="lazy">
+            <div class="shot-inner">
+              <i class="fa-regular fa-image"></i>
+              <span>02</span>
+            </div>
+          </button>
+          <button class="shot" type="button" data-full="" aria-label="Open image 3">
+            <img class="shot-img" src="" alt="Screenshot 03" loading="lazy">
+            <div class="shot-inner">
+              <i class="fa-regular fa-image"></i>
+              <span>03</span>
+            </div>
+          </button>
+          <button class="shot" type="button" data-full="" aria-label="Open image 4">
+            <img class="shot-img" src="" alt="Screenshot 04" loading="lazy">
+            <div class="shot-inner">
+              <i class="fa-regular fa-image"></i>
+              <span>04</span>
+            </div>
+          </button>
+        </div>
+      </div>
+    </section>
+    <section class="section alt" id="faq">
+      <div class="container">
+        <div class="section-head">
+          <h2>Faq</h2>
+        </div>
+        <div class="faq">
+          <details>
+            <summary><i class="fa-solid fa-circle-info"></i> Is this the full game?</summary>
+            <p>No. This is a beta build. Content, balance, and features may change a lot.</p>
+          </details>
+          <details>
+            <summary><i class="fa-solid fa-desktop"></i> What platform is supported?</summary>
+            <p>This download is for windows. more platforms may come later.</p>
+          </details>
+          <details>
+            <summary><i class="fa-brands fa-steam"></i> Is it on steam?</summary>
+            <p>Not released on steam yet. You can still check the store page and wishlist it.</p>
+          </details>
+          <details>
+            <summary><i class="fa-solid fa-bug"></i> Where do i report bugs?</summary>
+            <p>Our email: contact@bigwalk.fun</p>
+          </details>
+        </div>
+      </div>
+    </section>
+    <footer class="footer">
+      <div class="container foot-grid">
+        <div>
+          <div class="foot-brand">
+            <img class="brand-mark sm" src="assets/favicon.png" alt="">
+            <div>
+              <div class="foot-title">Big walk</div>
+              <div class="foot-sub">House House</div>
+            </div>
+          </div>
+          <p class="fine">
+            © <span id="year"></span> House House. All rights reserved. Big Walk is currently in beta.
+          </p>
+        </div>
+        <div class="foot-links">
+          <a href="#features">Features</a>
+          <a href="#beta">Beta</a>
+          <a href="#media">Media</a>
+          <a href="#faq">Faq</a>
+          <a href="https://store.steampowered.com/app/1478500/Big_Walk/" target="_blank" rel="noreferrer">steam</a>
+        </div>
+        <div class="foot-social">
+          <a class="icon-btn" href="https://x.com/house_house_" aria-label="X"><i class="fa-brands fa-x-twitter"></i></a>
+          <a class="icon-btn" href="https://youtu.be/G0ez7AP4-GM?si=FV5LyrHLr4iV8uma" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+          <a class="icon-btn" href="https://reddit.com/r/BigWalk/" aria-label="Reddit"><i class="fa-brands fa-reddit"></i></a>
+        </div>
+      </div>
+    </footer>
+  </main>
+  <div class="modal" id="trailerModal" aria-hidden="true" role="dialog" aria-label="Trailer">
+    <div class="modal-backdrop" data-close="true"></div>
+    <div class="modal-card" role="document">
+      <div class="modal-head">
+        <button class="icon-btn" id="closeTrailer" type="button" aria-label="Close trailer">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="video-wrap">
+          <iframe id="trailerFrame" title="Big Walk Trailer" src="about:blank" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+        <p class="fine">The video might take a while to load.</p>
+      </div>
+    </div>
+  </div>
+  <div class="modal" id="imgModal" aria-hidden="true" role="dialog" aria-label="Image viewer">
+    <div class="modal-backdrop" data-close="true"></div>
+    <div class="modal-card modal-img" role="document">
+      <div class="modal-head">
+        <button class="icon-btn" id="closeImg" type="button" aria-label="Close image">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <img id="imgFull" alt="Screenshot full view">
+      </div>
+    </div>
+  </div>
+  <script>
+    (() => {
+      const shots = [
+        "/assets/screenshot1.png",
+        "/assets/screenshot2.png",
+        "/assets/screenshot3.png",
+        "/assets/screenshot4.png",
+      ];
+      const $ = (q) => document.querySelector(q);
+      const $$ = (q) => Array.from(document.querySelectorAll(q));
+      function triggerDownload(url) {
+        const frame = document.createElement("iframe");
+        frame.style.position = "fixed";
+        frame.style.width = "1px";
+        frame.style.height = "1px";
+        frame.style.opacity = "0";
+        frame.style.pointerEvents = "none";
+        frame.src = url;
+        document.body.appendChild(frame);
+        setTimeout(() => frame.remove(), 15000);
+      }
+      function hookDownload(btnId) {
+        const btn = $(btnId);
+        if (!btn) return;
+        btn.addEventListener("click", () => triggerDownload("https://download.bigwalk.fun"));
+      }
+      function setTheme(theme) {
+        const t = theme || "normal";
+        document.documentElement.dataset.theme = t;
+        localStorage.setItem("bw_theme", t);
+        const meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) {
+          const map = {
+            normal: "#c4e3ba",
+            moderate: "#cfe8c7",
+            dark: "#12160f",
+          };
+          meta.setAttribute("content", map[t] || "#c4e3ba");
+        }
+      }
+      function init() {
+        const yearEl = $("#year");
+        if (yearEl) yearEl.textContent = new Date().getFullYear();
+        const themes = ["normal", "moderate", "dark"];
+        const stored = localStorage.getItem("bw_theme");
+        setTheme(stored && themes.includes(stored) ? stored : "normal");
+        const themeBtn = $("#themeBtn");
+        if (themeBtn) {
+          themeBtn.addEventListener("click", () => {
+            const cur = document.documentElement.dataset.theme || "normal";
+            const next = themes[(themes.indexOf(cur) + 1) % themes.length];
+            setTheme(next);
+          });
+        }
+        const burger = $("#burger");
+        const mobileMenu = $("#mobileMenu");
+        if (burger && mobileMenu) {
+          burger.addEventListener("click", () => {
+            const open = burger.getAttribute("aria-expanded") === "true";
+            burger.setAttribute("aria-expanded", String(!open));
+            mobileMenu.hidden = open;
+          });
+          $$("#mobileMenu a").forEach((a) =>
+            a.addEventListener("click", () => {
+              burger.setAttribute("aria-expanded", "false");
+              mobileMenu.hidden = true;
+            })
+          );
+        }
+        hookDownload("#downloadBtn");
+        hookDownload("#downloadBtn2");
+        const trailerModal = $("#trailerModal");
+        const trailerFrame = $("#trailerFrame");
+        const watchBtn = $("#watchTrailer");
+        const closeBtn = $("#closeTrailer");
+        function openTrailer() {
+          if (!trailerModal || !trailerFrame) return;
+          trailerModal.setAttribute("aria-hidden", "false");
+          trailerFrame.src = "https://www.youtube-nocookie.com/embed/G0ez7AP4-GM?autoplay=1&rel=0&modestbranding=1";
+          document.body.style.overflow = "hidden";
+        }
+        function closeTrailer() {
+          if (!trailerModal || !trailerFrame) return;
+          trailerModal.setAttribute("aria-hidden", "true");
+          trailerFrame.src = "about:blank";
+          document.body.style.overflow = "";
+        }
+        if (watchBtn) {
+          watchBtn.addEventListener("click", (e) => {
+            e.preventDefault();
+            openTrailer();
+          });
+        }
+        if (closeBtn) closeBtn.addEventListener("click", closeTrailer);
+        window.addEventListener("keydown", (e) => {
+          if (e.key === "Escape" && trailerModal?.getAttribute("aria-hidden") === "false") {
+            closeTrailer();
+          }
+        });
+        const imgModal = $("#imgModal");
+        const imgFull = $("#imgFull");
+        const closeImgBtn = $("#closeImg");
+        function openImg(src) {
+          if (!imgModal || !imgFull) return;
+          imgModal.setAttribute("aria-hidden", "false");
+          imgFull.src = src;
+          document.body.style.overflow = "hidden";
+        }
+        function closeImg() {
+          if (!imgModal || !imgFull) return;
+          imgModal.setAttribute("aria-hidden", "true");
+          imgFull.src = "";
+          document.body.style.overflow = "";
+        }
+        if (closeImgBtn) closeImgBtn.addEventListener("click", closeImg);
+        const shotButtons = $$("#gallery .shot");
+        shotButtons.forEach((btn, i) => {
+          const src = shots[i] || "";
+          btn.dataset.full = src;
+          const img = btn.querySelector(".shot-img");
+          if (img) img.src = src;
+          btn.addEventListener("click", () => {
+            if (!src) return;
+            openImg(src);
+          });
+        });
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+      } else {
+        init();
+      }
+    })();
+  </script>
+</body>
+
+</html>
